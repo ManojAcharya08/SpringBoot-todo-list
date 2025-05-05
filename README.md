@@ -32,5 +32,6 @@ A full-stack To-Do List application built with **Spring Boot** (backend) and **H
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository:git clone https://github.com/ManojAcharya08/SpringBoot-todo-list.git
+cd SpringBoot-todo-list
 
